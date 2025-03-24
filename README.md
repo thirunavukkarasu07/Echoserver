@@ -67,10 +67,12 @@ print(f"Received {data!r}")
 ## OUTPUT:
 server.py
 
-![Alt text](../../ex02/InformationGathering/img/echoserver.png)
+file:///home/user/ethical/ex02/InformationGathering/img/echoserver.png![image](https://github.com/user-attachments/assets/c73f79ce-05af-44a4-a47c-f28a41fdbadf)
+
 
 client.py
 
-![Alt text](../../ex02/InformationGathering/img/Echoserver.png)
+file:///home/user/ethical/ex02/InformationGathering/img/Echoserver.png![image](https://github.com/user-attachments/assets/d3709260-cac7-43d6-8d19-8cd6a886dd03)
+
 ## RESULT:
 The program is executed successfully
